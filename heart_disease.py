@@ -248,6 +248,6 @@ if model is not None and df is not None:
 
 # --- Footer ---
 st.markdown("---")
-st.markdown("<div style='text-align: center;'>Developed by <b>Dhruv Sharma and Vansh Nagpal</b></div>", unsafe_allow_html=True)
+st.markdown("<div style='text-align: center;'></b></div>", unsafe_allow_html=True)
 
 st.markdown('</div>', unsafe_allow_html=True)
